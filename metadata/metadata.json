@@ -1942,8 +1942,8 @@
     "access_to": [
       "all SDMX"
     ],
-    "license": "EUPL-1.2",
-    "licenseSimple": "EUPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "GitHub",
     "languages": [
       "Java"
